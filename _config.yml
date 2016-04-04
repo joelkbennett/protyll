@@ -1,0 +1,9 @@
+title: Protyll
+email: joelkbennett@gmail.com
+description: >
+  A jekyll skeleton for rapid development of static prototypes 
+baseurl: "" 
+url: "https://"
+twitter_username: joelkbennett
+github_username: joelkbennett
+markdown: kramdown
